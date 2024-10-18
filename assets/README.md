@@ -2,6 +2,10 @@
 
 Este é um projeto de **Formulário de Login e Registro Animado Moderno** desenvolvido com **HTML**, **CSS** e **JavaScript**. O objetivo deste projeto é criar uma interface de usuário elegante, com animações suaves, para a autenticação de usuários.
 
+## 📸 Captura de Tela
+
+![Formulário de Login e Registro](assets/website.jpg)
+
 ---
 
 ## 🚀 Funcionalidades
@@ -27,6 +31,4 @@ Para rodar este projeto localmente, siga os passos abaixo:
    ```bash
    git clone https://github.com/seu-usuario/formulario-login-registro.git
 
----
-
-![Formulário de Login](assets/website.jpg)
+[def]: assets
